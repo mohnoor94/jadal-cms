@@ -11,6 +11,6 @@ A lightweight Book Store CMS.
 
 | Command | Description                                    |
 | ------- |------------------------------------------------|
-| yarn develop | Start the application with autoReload enabled  |
-| yarn start | Start the application with autoReload disabled |
-| yarn build | Build the application for production         |
+| `yarn develop` | Start the application with autoReload enabled  |
+| `yarn start` | Start the application with autoReload disabled |
+| `yarn build` | Build the application for production         |
